@@ -1,7 +1,7 @@
 url: https://reservation.weihanli.xyz
-status: up
-code: 200
-responseTime: 499
-lastUpdated: 2024-05-08T23:11:21.709Z
+status: degraded
+code: 502
+responseTime: 6714
+lastUpdated: 2024-05-09T18:31:21.132Z
 startTime: 2023-02-26T12:07:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
