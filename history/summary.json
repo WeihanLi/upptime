@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 106,
-    "timeDay": 78,
-    "timeWeek": 77,
-    "timeMonth": 84,
+    "timeDay": 84,
+    "timeWeek": 72,
+    "timeMonth": 85,
     "timeYear": 111,
     "dailyMinutesDown": {
       "2025-12-12": 22,
@@ -35,9 +35,9 @@
     "uptimeYear": "92.86%",
     "time": 617,
     "timeDay": 451,
-    "timeWeek": 526,
-    "timeMonth": 550,
-    "timeYear": 621,
+    "timeWeek": 506,
+    "timeMonth": 542,
+    "timeYear": 620,
     "dailyMinutesDown": {
       "2025-11-28": 86,
       "2026-01-01": 1399,
@@ -75,16 +75,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/reservation.weihanli.xyz.ico",
     "slug": "reservation",
     "status": "down",
-    "uptime": "98.17%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "94.77%",
-    "time": 687,
-    "timeDay": 1075,
-    "timeWeek": 795,
-    "timeMonth": 726,
-    "timeYear": 681,
+    "uptime": "98.13%",
+    "uptimeDay": "47.09%",
+    "uptimeWeek": "92.44%",
+    "uptimeMonth": "98.26%",
+    "uptimeYear": "94.63%",
+    "time": 688,
+    "timeDay": 1515,
+    "timeWeek": 895,
+    "timeMonth": 706,
+    "timeYear": 683,
     "dailyMinutesDown": {
       "2025-11-28": 86,
       "2026-01-01": 1399,
@@ -107,7 +107,8 @@
       "2025-12-15": 503,
       "2026-01-03": 1021,
       "2026-01-02": 1440,
-      "2026-11-14": 0
+      "2026-11-15": 293,
+      "2026-11-14": 469
     }
   }
 ]
